@@ -1,4 +1,6 @@
-## My Project
+## AWS Transit Gateway and VPCs automation using Terraform
+
+This project is Terraform Infrastructure as code (IaC) script to create a AWS Transit Gateway, two VPCs, attachments to TGW and updating the route tables.
 
 TODO: Fill this README out!
 
