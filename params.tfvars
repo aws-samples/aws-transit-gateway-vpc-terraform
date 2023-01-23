@@ -1,5 +1,5 @@
 region = "eu-west-1"
-tgw-identifier = "apprunner-tgw"
+tgw-identifier = "my-transit-gateway"
 tgw-description = "tgw to connect main and secondary VPCs and then connect to Site-to-Site VPN connection to on-premises"
 
 amazon_side_asn = 64532
