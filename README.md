@@ -2,13 +2,6 @@
 
 This project is Terraform Infrastructure as code (IaC) script to create a AWS Transit Gateway, two VPCs, attachments to TGW and updating the route tables.
 
-TODO: Fill this README out!
-
-Be sure to:
-
-* Change the title in this README
-* Edit your repository description on GitHub
-
 ## Security
 
 See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
